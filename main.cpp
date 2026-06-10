@@ -34,7 +34,7 @@ int main() {
     std::cout << "\nYour array info:\n";
     std::cout << "\tElements entered: ";
 
-    for (int32_t index{0}; const int num : numbers) {
+    for (int32_t index{0}; const int& num : numbers) {
         std::cout << num;
         if (index < max_elements - 1) {
             std::cout << " - ";

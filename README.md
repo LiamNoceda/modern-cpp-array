@@ -131,13 +131,13 @@ Number-Array
 	Array numbers 0 - 1 - 2 - 3 - 4 - 5
 
 Create your own array
-	Number: 10
-	Number: abc
-	Number: 20
-	Number: 30
-	Number: 40
-	Number: 50
-	Number: 60
+	Number[1]: 10
+	Number[2]: abc
+	Number[2]: 20
+	Number[3]: 30
+	Number[4]: 40
+	Number[5]: 50
+	Number[6]: 60
 
 Your array info:
 	Elements entered: 10 - 20 - 30 - 40 - 50 - 60

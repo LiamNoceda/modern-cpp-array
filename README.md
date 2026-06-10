@@ -88,7 +88,7 @@ int main() {
         if (std::cin.fail()) {
             std::cin.clear();
             std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-			std::cout << "\t[Error] Invalid input! Please enter an integer.\n";
+std::cout << "\t[Error] Invalid input! Please enter an integer.\n";
             continue;
         }
 

@@ -134,6 +134,7 @@ Number-Array
 Create your own array
 	Number[1]: 10
 	Number[2]: abc
+	[Error] Invalid input! Please enter an integer.
 	Number[2]: 20
 	Number[3]: 30
 	Number[4]: 40

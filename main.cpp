@@ -13,7 +13,7 @@ int main() {
 
     constexpr int32_t max_elements{6};
 
-    std::array<int, max_elements> numbers{};
+    std::array<int32_t, max_elements> numbers{};
     int32_t i{};
 
     std::cout << "Create your own array\n";

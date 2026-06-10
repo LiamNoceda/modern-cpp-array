@@ -116,7 +116,7 @@ int main() {
 
 ```bash
 # Компиляция (флаг -std=c++20 обязателен)
-clang++ -std=c++20 n.cpp -o modern_array
+clang++ -std=c++20 main.cpp -o modern_array
 
 # Запуск программы
 ./modern_array

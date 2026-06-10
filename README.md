@@ -81,7 +81,7 @@ int main() {
 
     std::cout << "Create your own array\n";
 
-    while (i < numbers.size()) {
+    while (i < max_elements) {
         std::cout << "\tNumber[" << i + 1 << "]: ";
         std::cin >> numbers[i];
 
